@@ -1,3 +1,6 @@
+// Nama : Satrio Maruli Jaya Sianturi
+// Nim : 120140238
+
 <?php 
 function to_roman($number) {
     $map = array(
